@@ -9,4 +9,3 @@ for(let i=1;i<array.length;i=i+1){
         }
     }
 }
-console.log(array)
